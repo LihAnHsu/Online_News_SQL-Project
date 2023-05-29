@@ -11,3 +11,4 @@ Finding:
 2) Business Insider made the most news about AI related ones
 3) 10 of content mention about ChatGPT
 4) 2 of content talking about layoff
+5) 2023-05-02 & 2023-05-09 have the most news published on that days
