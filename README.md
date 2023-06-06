@@ -1,4 +1,4 @@
-# Online_News_SQL-Project
+# Online News SQL Project
 This mini project aims to get news by API to create a database and apply to SQL for analysis
 
 1) The News_fetch_SQL python notebook demonstrates how I get news by API key and some keywords to build up a database for later on SQL use
